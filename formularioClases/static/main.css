@@ -1,0 +1,19 @@
+.input {
+    background-color: azure;
+    height: 30px;
+    border-radius: 10px;
+    padding: 4px;
+    width: 250px;
+}
+
+label{
+    color:blue ;
+}
+
+.select{
+    background-color: azure;
+    height: 30px;
+    border-radius: 10px;
+    padding: 4px;
+    width: 250px;
+}
